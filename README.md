@@ -1,4 +1,4 @@
-# DevOps (primary skills)
+# DevOps (new/primary skills)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
@@ -30,7 +30,7 @@
 ![K3s](https://img.shields.io/badge/K3s-K3s?style=plastic&logo=k3s&logoColor=%23000000&color=%23FFC61C)
 ![Helm](https://img.shields.io/badge/Helm-Helm?style=plastic&logo=helm&color=%230F1689)
 
-# Dev (secondary skills)
+# Dev (old/secondary skills)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
